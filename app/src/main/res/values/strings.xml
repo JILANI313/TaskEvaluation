@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">All_Items_With_Favourites</string>
+    <string name="All">All</string>
+    <string name="Favourite">Favourite</string>
+</resources>
